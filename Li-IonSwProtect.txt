@@ -1,0 +1,17 @@
+Partlist exported from E:/Users/Ian/Documents/eagle/Li-IonSwProtect/Li-IonSwProtect.sch at 1/27/2018 11:20 PM
+
+Part Value     Device        Package  Description                                  MF MPN      OC_FARNELL OC_NEWARK SPICEPREFIX
+C1   1uF       C-USC0805     C0805    CAPACITOR, American symbol                                                    C          
+G1   AB9V      AB9V          AB9V     9-V BATTERY CLIP                                                                         
+Q2   IRLML6402 IRLML5203     MICRO3   HEXFET P-Channel Power MOSFET                                                            
+R1   15K       R-US_R0805    R0805    RESISTOR, American symbol                                                     R          
+R2   75K       R-US_R0805    R0805    RESISTOR, American symbol                                                     R          
+R3   10K       R-US_R0805    R0805    RESISTOR, American symbol                                                     R          
+R4   10K       R-US_R0805    R0805    RESISTOR, American symbol                                                     R          
+R5   100K      R-US_R0805    R0805    RESISTOR, American symbol                                                     R          
+R6   10K       R-US_R0805    R0805    RESISTOR, American symbol                                                     R          
+R7   10K       R-US_R0805    R0805    RESISTOR, American symbol                                                     R          
+S1   On/Off    10-XX         B3F-10XX OMRON SWITCH                                    B3F-1000 176432     36M3542              
+SL1  Out       M02           02P      AMP QUICK CONNECTOR                                      unknown    unknown              
+T1   IRF7319   PN_MOSFET-SO8 SO8      DUAL N AND P-CHANNEL ENHANCEMENT MODE MOSFET             unknown    unknown              
+VR1  TL431     TL431CLP      TO92-CLP VOLTAGE REGULATOR                                                                        
